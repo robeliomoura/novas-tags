@@ -1,0 +1,31 @@
+header {
+    border: 1px solid #aaa;
+    background: #e6ba2d;
+    padding: 10px;
+}
+
+nav {
+    border: 1px solid green;
+    background: greenyellow;
+    padding: 10px;
+}
+
+footer {
+    background: #aaa;
+}
+
+article {
+    background: #12e0a3;
+    padding: 10px;
+}
+
+section {
+    border: 1px dotted rgb(231, 30, 30);
+}
+time {
+    color: red;
+}
+
+aside {
+    background: rgb(84, 84, 206);
+}
